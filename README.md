@@ -33,4 +33,5 @@ This project demonstrates server state management with React Query, including fe
    npm install
    npx json-server --watch db.json --port 5000
    npm run dev
+<img width="1902" height="919" alt="image" src="https://github.com/user-attachments/assets/d34125b6-383e-4215-a717-18c214603a4f" />
 
